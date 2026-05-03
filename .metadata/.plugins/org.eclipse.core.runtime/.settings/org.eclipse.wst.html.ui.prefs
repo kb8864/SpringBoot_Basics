@@ -1,3 +1,4 @@
+autoProposeCode=<\=\#
 commentBorder=\#4e8f00 | null | false | false | false | false
 commentBorder,defaultValueBeforeOverriddenFromCSS=\#3f5fbf | null | false
 commentText=\#4e8f00 | null | false | false | false | false
@@ -17,6 +18,7 @@ elementNamesToIgnore=router-view
 entityReference=\#DD2867 | null | false | false | false | false
 entityReference,defaultValueBeforeOverriddenFromCSS=\#2a00ff | null | false
 newFileTemplateName=\u65B0\u898F HTML \u30D5\u30A1\u30A4\u30EB (5)
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="html_all" deleted\="false" description\="" enabled\="true" name\="p">&lt;p&gt;&lt;/p&gt;</template></templates>
 overriddenByCSS=,declBoder,doctypeExternalId,doctypeExternalPubref,doctypeExtrenalSysref,doctypeName,entityReference,tagAttributeEquals,tagAttributeName,tagBorder,tagName,xmlContent,
 tagAttributeEquals=\#52ca11 | null | false | false | false | false
 tagAttributeEquals,defaultValueBeforeOverriddenFromCSS=null | null | false

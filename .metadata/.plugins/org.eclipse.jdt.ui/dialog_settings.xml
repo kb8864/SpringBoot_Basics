@@ -11,4 +11,24 @@
 	<section name="javadoc">
 		<item key="additionalparam" value="-encoding UTF-8&#x0D;&#x0A;-charset UTF-8"/>
 	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="true"/>
+	</section>
+	<section name="NewClassCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="436"/>
+		<item key="DIALOG_Y_ORIGIN" value="164"/>
+		<item key="DIALOG_WIDTH" value="725"/>
+		<item key="DIALOG_HEIGHT" value="691"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|14.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
 </section>
